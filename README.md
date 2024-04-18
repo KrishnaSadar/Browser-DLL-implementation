@@ -19,9 +19,6 @@ The project is implemented in C++ and consists of two main classes:
 3. **Backward Navigation**: Move backward in history by a specified number of steps.
 4. **Forward Navigation**: Move forward in history by a specified number of steps, handling edge cases gracefully.
 
-## Sample Input/Output
-[Include a concise example demonstrating the functionality of the browser]
-
 ## Challenges Faced
 Handling edge cases efficiently, such as reaching the limit of backward or forward steps, was a notable challenge. However, through careful design and testing, I was able to address these issues effectively.
 
